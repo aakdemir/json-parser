@@ -1,0 +1,7 @@
+com\parser\parser\models\Value.class
+com\parser\parser\web\ApxController.class
+com\parser\parser\service\ServiceImpl.class
+com\parser\parser\ParserApplication.class
+com\parser\parser\service\ApxService.class
+com\parser\parser\models\Quote.class
+com\parser\parser\models\Response.class
